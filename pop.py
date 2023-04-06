@@ -43,4 +43,3 @@ bot.loop.create_task(ch_pr())
 
 
 bot.load_extension("jishaku")
-bot.run('NzU0NzY1NTU5Mjc4NjAwMzMy.G3V20v.tYc-ZjMIKfRJ5dwT-JqMTBWSJWPpjqDLBH_J84')
