@@ -51,4 +51,3 @@ for file in os.listdir("./cogs"):
         bot.load_extension("cogs." + file[:-3])
 
 print('cog loaded')
-bot.run("NzU0NzY1NTU5Mjc4NjAwMzMy.Gv-p5k.RB8BOo6HNOn86I6_kSrPdIS0auZCMikJHr8eQM")
