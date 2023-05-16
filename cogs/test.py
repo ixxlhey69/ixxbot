@@ -219,7 +219,7 @@ class test(commands.Cog):
         embed=discord.Embed(title="About me ", description="A bot with a little bit of everything.", color=0x000000)
         embed.set_author(name="IxxBot", icon_url="https://cdn.discordapp.com/attachments/848489978454343684/985265069480874044/179db7cf8d2761a5f841d80faa8072e2_1.png")
         embed.set_thumbnail(url="https://cdn.discordapp.com/attachments/848489978454343684/985265069480874044/179db7cf8d2761a5f841d80faa8072e2_1.png")
-        embed.add_field(name="Owner", value="@Ixxlhey#7587 <a:crown_gif:848767868967714826>", inline=True)
+        embed.add_field(name="Owner", value="@D3aDz#7587 <a:crown_gif:848767868967714826>", inline=True)
         embed.add_field(name="No. of Servers", value=f"IxxBot is currently in {len(self.bot.guilds)} servers!", inline=False)
         embed.add_field(name="Status", value=f"Under Maintenance <:yi:848649134235189298>", inline=False)
         embed.set_footer(text="IxxBot™ | 2022")
